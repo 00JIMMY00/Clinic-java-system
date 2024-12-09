@@ -1,0 +1,4 @@
+com/clinic/ClinicManagementSystem.class
+com/clinic/model/Patient.class
+com/clinic/model/Appointment.class
+com/clinic/model/Doctor.class
